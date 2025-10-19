@@ -19,7 +19,7 @@ export const Projects: React.FC = () => {
       status: "Completed",
       gradient: "from-blue-500 to-purple-600",
       demo: "https://shafvanxv.netlify.app",
-      github: "https://github.com/shafvantalat/portfolio"
+      github: "https://github.com/shafvantalat/Portfolio"
     },
     {
       title: "Global Chat App",
